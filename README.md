@@ -1,6 +1,6 @@
 # Hi, I'm Sweta 
 
-Aspiring Software Developer from Meerut, India. I enjoy solving problems with code and building web projects.
+Aspiring Software Developer from Meerut, India. I enjoy solving problems with code and building full-stack web apps with the MERN stack.
 
 ##  Skills
 - **Languages:** C++, JavaScript
