@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sweta 
 
-<!--
-**swetakardam/swetakardam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer from Meerut, India. I enjoy solving problems with code and building web projects.
 
-Here are some ideas to get you started:
+##  Skills
+- **Languages:** C++, JavaScript
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
+- **Core:** Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+- [Restaurant Reservation System](https://github.com/swetakardam/restaurant-reservation-system): Web app for booking restaurant tables
+- [LeetCode Solutions](https://github.com/swetakardam/Leetcode-solutions): DSA problems solved in C++
+
+##  Currently
+- Practicing DSA on LeetCode
+- Building web projects
+- Open to internships
+
+##  Connect
+- LinkedIn: https://www.linkedin.com/in/sweta-kardam-436901323?utm
+- Email: swetakardam20@gmail.com
