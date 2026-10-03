@@ -20,5 +20,5 @@ Aspiring Software Developer from Meerut, India. I enjoy solving problems with co
 - Open to internships
 
 ##  Connect
-- LinkedIn: https://www.linkedin.com/in/sweta-kardam-436901323?utm
+- LinkedIn: https://www.linkedin.com/in/sweta-kardam-436901323/
 - Email: swetakardam20@gmail.com
